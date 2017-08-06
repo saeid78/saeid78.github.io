@@ -1,0 +1,70 @@
+.foot {
+   min-height:70px;
+  background: #222222;
+  text-align: center;
+  padding-top: 40px;
+
+}
+.foot a {
+  margin-left: 25px;
+}
+.row h1{
+  text-align: center;
+
+}
+#logo{
+  width: 80px;
+  height: 62px;
+  margin-right: 100px;
+  border-radius:5px  ;
+}
+
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+
+
+/* Social media */
+
+.social .fa-facebook:hover {
+    color: #4060A5;
+}
+
+.social .fa-twitter:hover {
+    color: #00ABE3;
+}
+
+.social .fa-instagram:hover {
+    color: #e64522;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #777;
+}
+.social {
+  padding-right: 20px;
+}
+#navbar{
+
+}
+p{
+  text-align: justify;
+}
+.row h2{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.quote{
+margin-left: 25%;
+float: left;
+}
